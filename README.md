@@ -6,8 +6,8 @@ A simple website application with binary calculation
 ### With colors it indicates, if the result is true or false
 
 <div>
-  <img src="https://i.gyazo.com/765fa56b12170bf95dac9768076b5537.png"/>
+  <img src="https://github.com/Wittcheen/BinaryTraining/blob/main/TRUE%20-%20Screenshot.png?raw=true"/>
 </div>
 <div>
-  <img src="https://i.gyazo.com/4b718621e8daa985ef9aa4c7e16ed327.png"/>
+  <img src="https://github.com/Wittcheen/BinaryTraining/blob/main/FALSE%20-%20Screenshot.png?raw=true"/>
 </div>
