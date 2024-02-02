@@ -1,5 +1,5 @@
 # BinaryTraining
-A simple website application with binary calculation
+This simple web application is a user-friendly and efficient tool for learning binary calculations.
 
 <br/>
 
